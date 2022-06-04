@@ -6,10 +6,10 @@ Este repositório contém a Análise de Dados do dataset de casas da California.
 
 [![NPM](https://img.shields.io/github/license/tvlemes/machine-learning-random-forest?style=plastic)](https://github.com/tvlemes/machine-learning-random-forest/blob/main/LICENSE)
 
-![](/images/01.png)
+![](/images/01.PNG)
 
 
-![](/images/02.png)
+![](/images/02.PNG)
 
 
 
