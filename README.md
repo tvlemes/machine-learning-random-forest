@@ -31,7 +31,7 @@ Este repositório contém a Análise de Dados do dataset de casas da California.
 <!-- Bibliotecas -->
 ## Bibliotecas
 
-As bibliotecas utilizadas para a criação dos gráficos:
+As bibliotecas utilizadas para a criação foram:
 
 * pandas
 * numpy
